@@ -1,0 +1,1 @@
+--insert into previsao (cidade,semana,tempmin,tempmax,humidade,descricao ) values ('São Paulo', 'Segunda-feira', 20, 30, 25, 'sol');
